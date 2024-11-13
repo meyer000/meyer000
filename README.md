@@ -1,6 +1,5 @@
 ### Olá! Eu sou meyer000 (Lorenzo Meyer)
 
-- 🔭 A procura da primeira oportunidade na área de TI
 - 🌱 Estudando Python 
 
 <div> 
